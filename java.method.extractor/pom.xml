@@ -9,7 +9,6 @@
   		<groupId>org.eclipse.jdt</groupId>
   		<artifactId>org.eclipse.jdt.core</artifactId>
   		<version>3.10.0</version>
-  		<scope>runtime</scope>
   	</dependency>
   </dependencies>
   <groupId>com.github.thwak.jme</groupId>
